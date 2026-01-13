@@ -1,3 +1,3 @@
 num1, num2 = map(int, input().split())
-sum = num1 + num2
-print(pow(sum, 2))
+result = num1 + num2
+print(pow(result, 2))
